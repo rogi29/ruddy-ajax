@@ -1,0 +1,19 @@
+{
+  "name": "ruddy-ajax",
+  "version": "1.0.0",
+  "description": "RuddyJS ajax extenstion",
+  "main": "ajax.js",
+  "scripts": {
+    "minify": "uglifyjs ./ajax.js -o ./ajax.min.js"
+  },
+  "keywords": [
+    "npm",
+    "ajax",
+    "compatibility",
+    "polyfill"
+  ],
+  "authors": [
+    "Gil Nimer <gil@ruddy.nl>"
+  ],
+  "license": "MIT"
+}

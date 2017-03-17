@@ -1,0 +1,7 @@
+{
+  "name": "ruddy-ajax",
+  "main": [
+    "ajax.min.js"
+  ],
+  "ignore": []
+}
