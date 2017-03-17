@@ -1,7 +1,7 @@
 {
   "name": "ruddy-ajax",
   "version": "1.0.0",
-  "description": "RuddyJS ajax extenstion",
+  "description": "RuddyJS ajax extension",
   "main": "ajax.js",
   "scripts": {
     "minify": "uglifyjs ./ajax.js -o ./ajax.min.js"
